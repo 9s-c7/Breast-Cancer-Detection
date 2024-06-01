@@ -30,7 +30,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/9s-c7/Breast-Cancer-Detection/blob/main/README.md
+git clone https://github.com/9s-c7/Breast-Cancer-Detection
 ```
 
 2. Navigate to the project directory:
