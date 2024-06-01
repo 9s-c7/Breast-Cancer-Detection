@@ -11,7 +11,7 @@ The dataset contains 569 instances of tumors, with 30 features each. The feature
 
 ## Project Structure
 
-- `breast_cancer_prediction.ipynb`: Jupyter notebook containing the code for the project.
+- `breast_cancer_detection.ipynb`: Jupyter notebook containing the code for the project.
 
 ## Requirements
 
@@ -30,17 +30,17 @@ pip install pandas numpy scikit-learn matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/harshita2234/Breast-Cancer-Prediction.git
+git clone https://github.com/9s-c7/Breast-Cancer-Detection/blob/main/README.md
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Breast-Cancer-Prediction
+cd Breast-Cancer-Detection
 ```
 
 3. Open the Jupyter notebook:
 ```bash
-jupyter notebook breast_cancer_prediction.ipynb
+jupyter notebook breast_cancer_detection.ipynb
 ```
 
 4. Run the cells in the notebook to see the analysis and results.
